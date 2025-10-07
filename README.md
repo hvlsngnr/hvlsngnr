@@ -31,8 +31,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/heval-senguner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heval-senguner" height="30" width="40" /></a>
-<a href="https://kaggle.com/hevalsenguner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hevalsenguner" height="30" width="40" /></a>
 <a href="https://instagram.com/heval.senguner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heval.senguner" height="30" width="40" /></a>
+<a href="https://kaggle.com/hevalsenguner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hevalsenguner" height="30" width="40" /></a>
 </p>
 
 ---
